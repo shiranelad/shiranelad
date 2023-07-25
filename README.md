@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @shiranelad
-- 👀 I’m interested in everything that can bring my creativity into action (music, programming, photography...)
-- 🌱 I’m currently learning Full Stack Development at Coding Academy after many years in information systems
+- 👀 I’m interested in everything related to creativity (music, programming, photography...)
 - 📫 If you're on LinkedIn, come say hi! https://www.linkedin.com/in/shiran-elad
 
 
